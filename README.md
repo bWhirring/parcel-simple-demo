@@ -3,7 +3,7 @@
 
 install dependencies
 ```
-yarn add
+yarn install
 ```
 
 run app ([http://localhost:1234/](http://localhost:1234/))
